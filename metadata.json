@@ -1,0 +1,21 @@
+{
+    "title": "Mathematics: Polar Form of a Complex Number",
+    "slug": "maths-complex-polar-form",
+    "description": "Introduces the polar (trigonometric) form of a complex number, z = r(cos φ + i sin φ), relating the modulus r and the argument φ to the rectangular form and explaining how to convert between the two representations.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "maths"
+    ],
+    "duration": 6,
+    "prerequisites": [
+        "maths-complex-numbers",
+        "maths-complex-modulus",
+        "maths-complex-argument",
+        "maths-trigonometry-sine-cosine"
+    ],
+    "related": [
+        "maths-complex-conjugate"
+    ]
+}
