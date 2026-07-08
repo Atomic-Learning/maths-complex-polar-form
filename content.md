@@ -23,25 +23,25 @@ The connection between rectangular and polar forms comes from considering a righ
 
 ![Diagram showing a complex number with both rectangular and polar representations](resources/polar-form-diagram.png)
 
-This consideration of a right-angled triangle applies only in the first quadrant, but the relationships hold in all quadrants with appropriate adjustments for the argument.
-
 $$
-\cos \phi = \frac{x}{r}\\
-\sin \phi = \frac{y}{r}
+\cos \phi = \frac{x}{r}\label{eq:cos_phi}\\
+\sin \phi = \frac{y}{r}\label{eq:sin_phi}
 $$
 
 Rearranging:
 
 $$
-x = r \cos \phi\\
-y = r \sin \phi
+x = r \cos \phi\label{eq:x}\\
+y = r \sin \phi\label{eq:y}
 $$
 
 This means:
 
 $$
-z = x + iy = r \cos \phi + ir \sin \phi = r(\cos \phi + i \sin \phi)
+z = x + iy = r \cos \phi + ir \sin \phi = r(\cos \phi + i \sin \phi) \label{eq:z}
 $$
+
+The visualisation of this relationship as a right-angled triangle only works cleanly in the first quadrant (positive $x$ and $y$). For other quadrants, the angle $\phi$ must be adjusted accordingly in Equations \ref{eq:cos_phi} and \ref{eq:sin_phi}. However, the relationships in equations \eqref{eq:cos_phi}, \eqref{eq:sin_phi} and \eqref{eq:z} hold for all quadrants with no adjustments, and the polar form is valid for all complex numbers.
 
 ## Converting from Rectangular to Polar
 
