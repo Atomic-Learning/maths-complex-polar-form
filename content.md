@@ -43,22 +43,6 @@ $$
 
 The visualisation of this relationship as a right-angled triangle only works cleanly in the first quadrant (positive $x$ and $y$). For other quadrants, the angle $\phi$ must be adjusted accordingly in Equations \ref{eq:cos_phi} and \ref{eq:sin_phi}. However, the relationships in Equations \ref{eq:x}, \ref{eq:y} and \ref{eq:z} hold for all quadrants with no adjustments, and the polar form is valid for all complex numbers.
 
-## Converting from Rectangular to Polar
-
-Given $z = x + iy$, to find the polar form:
-
-1. Compute the modulus: $r = \sqrt{x^2 + y^2}$
-2. Compute the argument: $\phi = \arctan(y/x)$ (with quadrant adjustments)
-3. Write: $z = r(\cos \phi + i \sin \phi)$
-
-## Converting from Polar to Rectangular
-
-Given $z = r(\cos \phi + i \sin \phi)$, to find the rectangular form:
-
-1. Compute $x = r \cos \phi$
-2. Compute $y = r \sin \phi$
-3. Write: $z = x + iy$
-
 # Why Use Polar Form?
 
 The polar form is particularly useful for:
