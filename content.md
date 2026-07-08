@@ -8,11 +8,13 @@ where:
 - $r = |z| = \sqrt{x^2 + y^2}$ is the modulus (the distance from the origin to $z$)
 - $\phi = \arg(z)$ is the argument (the angle from the positive real axis)
 
-An alternative representation of the polar form uses Euler's formula:
+It can be shown that this can also be expressed using Euler's formula:
 
 $$
 z = re^{i\phi}
 $$
+
+The above is a common and compact way to represent complex numbers in polar form.
 
 # Relationship to Rectangular Form
 
