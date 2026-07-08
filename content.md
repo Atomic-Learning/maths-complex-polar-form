@@ -19,7 +19,11 @@ The above is a common and compact way to represent complex numbers in polar form
 
 # Relationship to Rectangular Form
 
-The connection between rectangular and polar forms comes from the definitions of sine and cosine:
+The connection between rectangular and polar forms comes from considering a right-angled triangle formed by the real and imaginary parts of the complex number on the complex plane. The sides of the triangle are $x$ (the real part) and $y$ (the imaginary part), and the hypotenuse is $r$ (the modulus). The angle $\phi$ is the argument of the complex number. 
+
+![Diagram showing a complex number with both rectangular and polar representations](resources/polar-form-diagram.png)
+
+This consideration of a right-angled triangle applies only in the first quadrant, but the relationships hold in all quadrants with appropriate adjustments for the argument.
 
 $$
 \cos \phi = \frac{x}{r}\\
@@ -47,8 +51,6 @@ Given $z = x + iy$, to find the polar form:
 2. Compute the argument: $\phi = \arctan(y/x)$ (with quadrant adjustments)
 3. Write: $z = r(\cos \phi + i \sin \phi)$
 
-![Diagram showing a complex number with both rectangular and polar representations](resources/polar-form-diagram.png)
-
 ## Converting from Polar to Rectangular
 
 Given $z = r(\cos \phi + i \sin \phi)$, to find the rectangular form:
@@ -56,12 +58,6 @@ Given $z = r(\cos \phi + i \sin \phi)$, to find the rectangular form:
 1. Compute $x = r \cos \phi$
 2. Compute $y = r \sin \phi$
 3. Write: $z = x + iy$
-
-# Examples in All Quadrants
-
-Here are examples of conversions in each quadrant:
-
-![Conversions between rectangular and polar forms for complex numbers in all four quadrants](resources/polar-form-conversions.png)
 
 # Why Use Polar Form?
 
