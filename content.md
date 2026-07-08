@@ -8,6 +8,12 @@ where:
 - $r = |z| = \sqrt{x^2 + y^2}$ is the modulus (the distance from the origin to $z$)
 - $\phi = \arg(z)$ is the argument (the angle from the positive real axis)
 
+An alternative representation of the polar form uses Euler's formula:
+
+$$
+z = re^{i\phi}
+$$
+
 # Relationship to Rectangular Form
 
 The connection between rectangular and polar forms comes from the definitions of sine and cosine:
