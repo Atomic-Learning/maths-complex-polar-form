@@ -6,7 +6,8 @@
         "chris-cooling"
     ],
     "tags": [
-        "maths"
+        "maths",
+        "complex-analysis"
     ],
     "duration": 6,
     "prerequisites": [
@@ -16,6 +17,7 @@
         "maths-trigonometry-sine-cosine"
     ],
     "related": [
-        "maths-complex-powers-roots"
+        "maths-complex-powers",
+        "maths-complex-roots"
     ]
 }
