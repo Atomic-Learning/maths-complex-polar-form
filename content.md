@@ -1,14 +1,3 @@
-# Introduction to Polar Form
-
-Every complex number can be expressed in two equivalent ways:
-
-1. **Rectangular form** (also called Cartesian form): $z = x + iy$, where $x$ and $y$ are the real and imaginary parts
-2. **Polar form** (also called trigonometric form): $z = r(\cos \phi + i \sin \phi)$, where $r$ is the modulus and $\phi$ is the argument
-
-The polar form expresses a complex number using its distance from the origin ($r$) and its angle from the positive real axis ($\phi$).
-
-# The Polar Form Formula
-
 For a complex number $z = x + iy$, the polar form is:
 
 $$
@@ -19,24 +8,20 @@ where:
 - $r = |z| = \sqrt{x^2 + y^2}$ is the modulus (the distance from the origin to $z$)
 - $\phi = \arg(z)$ is the argument (the angle from the positive real axis)
 
-An alternative notation using Euler's formula is:
-
-$$
-z = r e^{i\phi}
-$$
-
 # Relationship to Rectangular Form
 
 The connection between rectangular and polar forms comes from the definitions of sine and cosine:
 
 $$
-\cos \phi = \frac{x}{r} \quad \text{and} \quad \sin \phi = \frac{y}{r}
+\cos \phi = \frac{x}{r}\\
+\sin \phi = \frac{y}{r}
 $$
 
 Rearranging:
 
 $$
-x = r \cos \phi \quad \text{and} \quad y = r \sin \phi
+x = r \cos \phi\\
+y = r \sin \phi
 $$
 
 This means:
