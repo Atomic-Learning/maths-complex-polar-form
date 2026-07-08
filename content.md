@@ -5,6 +5,7 @@ z = r(\cos \phi + i \sin \phi)
 $$
 
 where:
+
 - $r = |z| = \sqrt{x^2 + y^2}$ is the modulus (the distance from the origin to $z$)
 - $\phi = \arg(z)$ is the argument (the angle from the positive real axis)
 
