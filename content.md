@@ -41,7 +41,7 @@ $$
 z = x + iy = r \cos \phi + ir \sin \phi = r(\cos \phi + i \sin \phi) \label{eq:z}
 $$
 
-The visualisation of this relationship as a right-angled triangle only works cleanly in the first quadrant (positive $x$ and $y$). For other quadrants, the angle $\phi$ must be adjusted accordingly in Equations \ref{eq:cos_phi} and \ref{eq:sin_phi}. However, the relationships in equations \ref{eq:cos_phi}, \ref{eq:sin_phi} and \ref{eq:z} hold for all quadrants with no adjustments, and the polar form is valid for all complex numbers.
+The visualisation of this relationship as a right-angled triangle only works cleanly in the first quadrant (positive $x$ and $y$). For other quadrants, the angle $\phi$ must be adjusted accordingly in Equations \ref{eq:cos_phi} and \ref{eq:sin_phi}. However, the relationships in Equations \ref{eq:x}, \ref{eq:y} and \ref{eq:z} hold for all quadrants with no adjustments, and the polar form is valid for all complex numbers.
 
 ## Converting from Rectangular to Polar
 
